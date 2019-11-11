@@ -1,0 +1,43 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "simarjeetk",
+    "children" : [ {
+      "name" : "9723@simarjeetk.main(1)",
+      "children" : [ {
+        "name" : "Only Registered User can login to the application",
+        "uid" : "5254ad8a62fca614",
+        "parentUid" : "a2b543b35fd8e21b0a5b81d14aa547e7",
+        "status" : "broken",
+        "time" : {
+          "start" : 1570733471610,
+          "stop" : 1570733474980,
+          "duration" : 3370
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a2b543b35fd8e21b0a5b81d14aa547e7"
+    }, {
+      "name" : "9658@simarjeetk.main(1)",
+      "children" : [ {
+        "name" : "Only Registered User can login to the application",
+        "uid" : "5cdd34b8ec307da6",
+        "parentUid" : "cf645dcbcc105a298718a331764b021e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1570733296367,
+          "stop" : 1570733299802,
+          "duration" : 3435
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cf645dcbcc105a298718a331764b021e"
+    } ],
+    "uid" : "7ec7fd21b91b6ece0016c301c2f26e06"
+  } ]
+}

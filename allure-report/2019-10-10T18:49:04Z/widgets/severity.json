@@ -1,0 +1,11 @@
+[ {
+  "uid" : "7c57049dba735550",
+  "name" : "Only Registered User can login to the application",
+  "time" : {
+    "start" : 1570733296367,
+    "stop" : 1570733299802,
+    "duration" : 3435
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

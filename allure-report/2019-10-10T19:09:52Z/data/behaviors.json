@@ -1,0 +1,26 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Login",
+    "children" : [ {
+      "name" : "Only Registered User can login to the application",
+      "children" : [ {
+        "name" : "Only Registered User can login to the application",
+        "uid" : "2a48c408b28f1462",
+        "parentUid" : "9e539602ce396342779987a823f27854",
+        "status" : "passed",
+        "time" : {
+          "start" : 1570734576377,
+          "stop" : 1570734586777,
+          "duration" : 10400
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9e539602ce396342779987a823f27854"
+    } ],
+    "uid" : "14102d61eef2af473312d4f91dec531b"
+  } ]
+}

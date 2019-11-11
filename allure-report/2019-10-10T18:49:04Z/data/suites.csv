@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Oct 10 11:48:16 PDT 2019","Thu Oct 10 11:48:19 PDT 2019","3435","","Login","","Only Registered User can login to the application","","Only Registered User can login to the application",""

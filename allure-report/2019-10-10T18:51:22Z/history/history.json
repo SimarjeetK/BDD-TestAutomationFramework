@@ -1,0 +1,22 @@
+{
+  "66f236cd42e03d64324f8a8f2d53402a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "133e20226a27974c",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[contains(@href,'mercuryregiste.php')]\"}\n  (Session info: chrome=77.0.3865.90)\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.10.0', revision: '176b4a9', time: '2018-03-02T19:03:16.397Z'\nSystem info: host: 'simarjeetk', ip: '2600:1010:b069:306f:9075:4496:3292:c4b3%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_191'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.90, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: /var/folders/lk/wx1qnld901s...}, goog:chromeOptions: {debuggerAddress: localhost:58301}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}\nSession ID: 6b85c2b897c7a61cbdb53b51d27837b2\n*** Element info: {Using=xpath, value=//a[contains(@href,'mercuryregiste.php')]}",
+      "time" : {
+        "start" : 1570733471610,
+        "stop" : 1570733474980,
+        "duration" : 3370
+      }
+    } ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Login",
+    "children" : [ {
+      "name" : "Only Registered User can login to the application",
+      "uid" : "2a48c408b28f1462",
+      "parentUid" : "19e178db3ae5a62d0eab84dca72fd59e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1570734576377,
+        "stop" : 1570734586777,
+        "duration" : 10400
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "19e178db3ae5a62d0eab84dca72fd59e"
+  } ]
+}

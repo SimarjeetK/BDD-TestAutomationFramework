@@ -1,0 +1,77 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "simarjeetk",
+    "children" : [ {
+      "name" : "9658@simarjeetk.main(1)",
+      "children" : [ {
+        "name" : "Only Registered User can login to the application",
+        "uid" : "c61b12abf01376b1",
+        "parentUid" : "cf645dcbcc105a298718a331764b021e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1570733296367,
+          "stop" : 1570733299802,
+          "duration" : 3435
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cf645dcbcc105a298718a331764b021e"
+    }, {
+      "name" : "10195@simarjeetk.main(1)",
+      "children" : [ {
+        "name" : "Only Registered User can login to the application",
+        "uid" : "cda5febc0c19e617",
+        "parentUid" : "8b2bbd5167203335df0799b53d84e29e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1570734576377,
+          "stop" : 1570734586777,
+          "duration" : 10400
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8b2bbd5167203335df0799b53d84e29e"
+    }, {
+      "name" : "12697@simarjeetk.main(1)",
+      "children" : [ {
+        "name" : "Only Registered User can login to the application",
+        "uid" : "1cd2d052096a269b",
+        "parentUid" : "ffcb6306d5409ca38d3ee3f36e29ef0a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1570749089811,
+          "stop" : 1570749093226,
+          "duration" : 3415
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ffcb6306d5409ca38d3ee3f36e29ef0a"
+    }, {
+      "name" : "9723@simarjeetk.main(1)",
+      "children" : [ {
+        "name" : "Only Registered User can login to the application",
+        "uid" : "dbf6c4cac8b1630b",
+        "parentUid" : "a2b543b35fd8e21b0a5b81d14aa547e7",
+        "status" : "broken",
+        "time" : {
+          "start" : 1570733471610,
+          "stop" : 1570733474980,
+          "duration" : 3370
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a2b543b35fd8e21b0a5b81d14aa547e7"
+    } ],
+    "uid" : "7ec7fd21b91b6ece0016c301c2f26e06"
+  } ]
+}

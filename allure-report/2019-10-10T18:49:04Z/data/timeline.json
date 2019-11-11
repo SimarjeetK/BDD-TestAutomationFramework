@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "simarjeetk",
+    "children" : [ {
+      "name" : "9658@simarjeetk.main(1)",
+      "children" : [ {
+        "name" : "Only Registered User can login to the application",
+        "uid" : "7c57049dba735550",
+        "parentUid" : "cf645dcbcc105a298718a331764b021e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1570733296367,
+          "stop" : 1570733299802,
+          "duration" : 3435
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cf645dcbcc105a298718a331764b021e"
+    } ],
+    "uid" : "7ec7fd21b91b6ece0016c301c2f26e06"
+  } ]
+}
